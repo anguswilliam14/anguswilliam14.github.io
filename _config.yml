@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/themes/66384500-D3FD-4550-AB1D-2F6B255065C6_1_105_c.jpeg"
+  avatar           : "66384500-D3FD-4550-AB1D-2F6B255065C6_1_105_c.jpeg"
   name             : "Angus William Hooper"
   pronouns         : ""  
   bio              : "Undergraduate student at Adelaide University studying a double degree: Bachelor of Biomedical and Health Sciences (Neuroscience), Bachelor Psychology (Cognitive Neuroscience)"
